@@ -1,16 +1,15 @@
-## Hi there 👋
+# Samuraiapokalips
 
-<!--
-**sourcefoundertech-max/sourcefoundertech-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Licensing
 
-Here are some ideas to get you started:
+© 2026 Samuraiapokalips. All rights reserved unless otherwise stated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal, non-commercial use is free with credit:
+
+Created by Samuraiapokalips — [sourcefounder.com](https://sourcefounder.com)
+
+Commercial use, modification, resale, redistribution, or reuse in
+another product or service requires prior written permission.
+
+For licensing or collaboration requests, contact Samuraiapokalips
+through the [contact form](https://sourcefounder.com).
